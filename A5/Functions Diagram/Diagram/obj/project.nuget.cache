@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0bQsR/H3zQhNjB+KpmdgHqq/11fhjU3RzqVQP4mui+crc/lTXkfXj04dXxnu97iq3N7qs8aAyHr6WAWrxv3z1w==",
+  "success": true,
+  "projectFilePath": "D:\\uni\\Ashrafi\\A5\\Diagram\\Diagram\\Diagram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\mathnet.numerics\\4.12.0\\mathnet.numerics.4.12.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

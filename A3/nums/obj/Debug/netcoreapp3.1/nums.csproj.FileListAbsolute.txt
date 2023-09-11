@@ -1,0 +1,13 @@
+d:\uni\Ashrafi\A3\nums\bin\Debug\netcoreapp3.1\nums.exe
+D:\uni\Ashrafi\A3\nums\bin\Debug\netcoreapp3.1\nums.deps.json
+D:\uni\Ashrafi\A3\nums\bin\Debug\netcoreapp3.1\nums.runtimeconfig.json
+D:\uni\Ashrafi\A3\nums\bin\Debug\netcoreapp3.1\nums.runtimeconfig.dev.json
+d:\uni\Ashrafi\A3\nums\bin\Debug\netcoreapp3.1\nums.dll
+d:\uni\Ashrafi\A3\nums\bin\Debug\netcoreapp3.1\nums.pdb
+d:\uni\Ashrafi\A3\nums\obj\Debug\netcoreapp3.1\nums.csprojAssemblyReference.cache
+d:\uni\Ashrafi\A3\nums\obj\Debug\netcoreapp3.1\nums.AssemblyInfoInputs.cache
+d:\uni\Ashrafi\A3\nums\obj\Debug\netcoreapp3.1\nums.AssemblyInfo.cs
+d:\uni\Ashrafi\A3\nums\obj\Debug\netcoreapp3.1\nums.csproj.CoreCompileInputs.cache
+d:\uni\Ashrafi\A3\nums\obj\Debug\netcoreapp3.1\nums.dll
+d:\uni\Ashrafi\A3\nums\obj\Debug\netcoreapp3.1\nums.pdb
+D:\uni\Ashrafi\A3\nums\obj\Debug\netcoreapp3.1\nums.genruntimeconfig.cache
